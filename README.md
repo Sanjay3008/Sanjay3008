@@ -3,5 +3,10 @@
 - 🌱 I’m currently studying Electronics and Communication Engineering at SSN College of Engineering.
 - 📫 You can reach me at ssanjaynkl1999@gmail.com and through https://www.ssanjays.ga/
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sanjay3008)
+
+
+# GitHub Analytics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay3008)](https://github.com/anuraghazra/github-readme-stats)
+
 
